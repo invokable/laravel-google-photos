@@ -8,8 +8,8 @@ This package provides a Laravel integration for the Google Photos Library API, e
 
 ### Requirements
 
-- PHP >= 8.2
-- Laravel >= 11.0
+- PHP >= 8.3
+- Laravel >= 12.0
 - Google Photos Library API credentials
 - Laravel Socialite (for OAuth authentication)
 

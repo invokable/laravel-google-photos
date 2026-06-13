@@ -23,7 +23,7 @@ jobs:
           extensions: mbstring
           coverage: xdebug
       - name: Install Composer dependencies
-        run: composer install -q
+        run: composer install --prefer-dist --no-interaction --no-progress
       - name: Test
         run: vendor/bin/phpunit
       - name: Code Coverage

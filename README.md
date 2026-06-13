@@ -4,7 +4,7 @@
 [![Code Coverage](https://qlty.sh/badges/70d6e01e-6c2d-40ba-985b-769820516ea7/test_coverage.svg)](https://qlty.sh/gh/invokable/projects/laravel-google-photos)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/invokable/laravel-google-photos)
 
-> [!WARNING]
+> [!CAUTION]
 > Since [google/photos-library](https://github.com/google/php-photoslibrary) has been discontinued, this package will also be discontinued.
 
 A Laravel package providing seamless integration with the Google Photos Library API and Google Photos Picker API. Upload photos, manage albums, and interact with Google Photos directly from your Laravel applications.
